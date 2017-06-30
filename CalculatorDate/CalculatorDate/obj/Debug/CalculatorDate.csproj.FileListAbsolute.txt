@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe.config
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Form1.resources
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Properties.Resources.resources
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.pdb
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.exe
+C:\Users\User\Desktop\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe.config
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Form1.resources
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Properties.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csproj.GenerateResource.Cache
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe.config
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.exe
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.pdb
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.pdb
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csprojResolveAssemblyReference.cache
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Form1.resources
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Properties.Resources.resources
+H:\Универ\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csproj.GenerateResource.Cache
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe.config
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.exe
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.pdb
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.exe
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\bin\Debug\CalculatorDate.pdb
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csprojResolveAssemblyReference.cache
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Form1.resources
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.Properties.Resources.resources
+E:\Университет\1 семестр\Основы программирования и алгоритмизации\ИС-15-1(1 семестр)\Домашняя работа №1\CalculatorDate\CalculatorDate\obj\Debug\CalculatorDate.csproj.GenerateResource.Cache
